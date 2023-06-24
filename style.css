@@ -1,0 +1,295 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.flex-header {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    height: 70px;
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0%;
+}
+
+.img1 {
+    padding-left: 10px;
+}
+
+.img2 {
+    padding-left: 20px;
+}
+.search-bar{
+    width: 700px;
+    height: 40px;
+    background-color: #faf4f4;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-left: 380px;
+}
+
+.search-bar input{
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 18px;   
+}
+.button{
+    width: 630px;
+}
+
+.img6{  
+    width: 22px;
+    height: 22px;
+    Margin-left: 10px;
+}
+
+.img0 {
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.img3 {
+    padding-left: 430px;
+
+}
+
+.img4,
+.img5 {
+    padding-left: 20px;
+}
+.left-side{
+    border: 1px solid #fffdfd;
+    width: 242px;
+    height: 890px;
+    overflow: auto ;
+    position: fixed;
+    top: 80px;
+}
+
+.left-header {
+    width: 240px;
+    height: 100vh;
+    top: 0%;
+    position: relative;
+    
+}
+.left-side a{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.left-side a:hover{
+    transition: all;
+    background-color: #dad5d5;
+    
+}
+
+.left-side img {
+    padding-right: 20px;
+
+}
+.llc0{
+    text-align: center;
+}
+.llc1{
+    color: #000000;
+    text-decoration: none;
+}
+
+.left-side a {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #000000;
+    padding-left: 15px;
+}
+
+.name0 {
+    padding: 10px 0px 10px 15px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.right-side {
+    left: 242px;
+    position: absolute;
+    top: 0%;
+    
+}
+
+.right-side1 {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+
+
+}
+
+.picture1 {
+    border-radius: 10px;
+    margin-left: 180px;
+    border-radius: 50px;
+
+}
+
+.right-side1 p {
+    padding-left: 20px;
+}
+
+.p1 {
+    font-size: 30px;
+}
+
+.button1 {
+    margin-left: 670px;
+    height: 40px;
+    width: 120px;
+    border-radius: 18px;
+    background-color: #d51111;
+    font-size: 16px;
+    border: #d51111;
+
+}
+
+.right-side1 a {
+    text-decoration: none;
+    color: #ffffff;
+}
+.header-page{
+    border: #ffffff 1px solid;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    position: sticky;
+    top: 0%;
+    border-radius: 10px;
+}
+
+.header-page ul {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 150px;
+}
+
+.header-page ul li {
+    margin-left: 60px;
+    list-style: none;
+
+}
+.header-page ul li a{
+    text-decoration: none;
+    color: #575454;
+    font-weight: 600;
+}
+.header-page ul img{
+    width: 20px;
+    height: 20px;
+    margin-left: 70px;
+}
+.one{
+    margin-left: 200px;
+}
+.img-auto{
+    width: 380px;
+    height: 250px;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    
+}
+.auto{
+    padding-top: 10px;
+}
+.ayat1{
+    text-decoration: none;
+    color: #000;
+    padding-left: 60px;
+}
+.ayat2{
+    text-decoration: none;
+    color: #000;
+    padding-left: 140px;
+}
+.ayat3{
+    text-decoration: none;
+    color: #000;
+    padding-left: 100px;
+}
+.ayat4{
+    text-decoration: none;
+    color: #000;
+    padding-left: 130px;
+}
+.ayat5{
+    text-decoration: none;
+    color: #000;
+    padding-left: 40px;
+}
+.ayat6{
+    text-decoration: none;
+    color: #000;
+    padding-left: 100px;
+}
+.ayat7{
+    text-decoration: none;
+    color: #000;
+    padding-left: 65px;
+}
+.ayat8{
+    text-decoration: none;
+    color: #000;
+    padding-left: 80px;
+}
+.ayat9{
+    text-decoration: none;
+    color: #000;
+    padding-left: 40px;
+}
+.ayat10{
+    text-decoration: none;
+    color: #000;
+    padding-left: 70px;
+}
+.ayat11{
+    text-decoration: none;
+    color: #000;
+    padding-left: 90px;
+}
+.ayat12{
+    text-decoration: none;
+    color: #000;
+    padding-left: 80px;
+}
+.ayat13{
+    text-decoration: none;
+    color: #000;
+    padding-left: 60px;
+}
+.ayat14{
+    text-decoration: none;
+    color: #000;
+    padding-left: 150px;
+}
+.ayat15{
+    text-decoration: none;
+    color: #000;
+    padding-left: 110px;
+}
+.ayat16{
+    text-decoration: none;
+    color: #000;
+    padding-left: 120px;
+}
